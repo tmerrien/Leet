@@ -1,0 +1,15 @@
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\bin\Debug\net7.0\RomanToInteger.exe
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\bin\Debug\net7.0\RomanToInteger.deps.json
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\bin\Debug\net7.0\RomanToInteger.runtimeconfig.json
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\bin\Debug\net7.0\RomanToInteger.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\bin\Debug\net7.0\RomanToInteger.pdb
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\RomanToInteger.csproj.AssemblyReference.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\RomanToInteger.AssemblyInfoInputs.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\RomanToInteger.AssemblyInfo.cs
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\RomanToInteger.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\refint\RomanToInteger.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\RomanToInteger.pdb
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\RomanToInteger.genruntimeconfig.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\RomanToInteger\obj\Debug\net7.0\ref\RomanToInteger.dll

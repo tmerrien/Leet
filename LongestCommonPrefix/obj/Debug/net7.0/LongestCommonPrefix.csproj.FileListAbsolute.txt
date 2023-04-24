@@ -1,0 +1,15 @@
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.exe
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.deps.json
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.runtimeconfig.json
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.pdb
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.csproj.AssemblyReference.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.AssemblyInfoInputs.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.AssemblyInfo.cs
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\refint\LongestCommonPrefix.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.pdb
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.genruntimeconfig.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\LongestCommonPrefix\obj\Debug\net7.0\ref\LongestCommonPrefix.dll
