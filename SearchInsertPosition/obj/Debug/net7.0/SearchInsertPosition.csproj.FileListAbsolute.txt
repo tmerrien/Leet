@@ -1,0 +1,15 @@
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\bin\Debug\net7.0\SearchInsertPosition.exe
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\bin\Debug\net7.0\SearchInsertPosition.deps.json
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\bin\Debug\net7.0\SearchInsertPosition.runtimeconfig.json
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\bin\Debug\net7.0\SearchInsertPosition.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\bin\Debug\net7.0\SearchInsertPosition.pdb
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\SearchInsertPosition.csproj.AssemblyReference.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\SearchInsertPosition.AssemblyInfoInputs.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\SearchInsertPosition.AssemblyInfo.cs
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\SearchInsertPosition.csproj.CoreCompileInputs.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\SearchInsertPosition.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\refint\SearchInsertPosition.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\SearchInsertPosition.pdb
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\SearchInsertPosition.genruntimeconfig.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\SearchInsertPosition\obj\Debug\net7.0\ref\SearchInsertPosition.dll

@@ -1,0 +1,15 @@
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\bin\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.exe
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\bin\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.deps.json
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\bin\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.runtimeconfig.json
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\bin\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\bin\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.pdb
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.csproj.AssemblyReference.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.AssemblyInfoInputs.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.AssemblyInfo.cs
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.csproj.CoreCompileInputs.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\refint\FindTheIndexOfTheFirstOccurrenceInAString.dll
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.pdb
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\FindTheIndexOfTheFirstOccurrenceInAString.genruntimeconfig.cache
+C:\Users\tmerr\Desktop\Learn\LeetCode Problems\FindTheIndexOfTheFirstOccurrenceInAString\obj\Debug\net7.0\ref\FindTheIndexOfTheFirstOccurrenceInAString.dll
